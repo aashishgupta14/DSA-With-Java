@@ -1,1 +1,0 @@
-    boolean results=Arrays.equals(a,b);
